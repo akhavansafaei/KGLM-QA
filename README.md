@@ -46,11 +46,6 @@ If you use this repository in your research, please cite:
 
 @inproceedings{akhavansafaei2024kglmqa, title={KGLM-QA: A Novel Approach for Knowledge Graph-Enhanced Large Language Models for Question Answering}, author={Alireza Akhavan Safaei, Reza Ramezani, Pegah Saboori, Mohammadali Nematbakhsh}, booktitle={2024 15th International Conference on Information and Knowledge Technology (IKT)}, year={2024}, organization={IEEE} }
 
-## contact us
-- studylab.ir
-- alirezaakhavansafaei@gmail.com
-
-
 ## Contact
 
 For any inquiries or issues, please contact:
